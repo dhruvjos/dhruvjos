@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhruvjos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhruv joshi @dhruvjos
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning DSA in c++
+- 💞️ I’m looking to collaborate on Cyber security related projects
+- 📫 How to reach me - e-mail me
 
 <!---
 dhruvjos/dhruvjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
